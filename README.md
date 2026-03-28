@@ -16,7 +16,8 @@
 
 [![Release](https://img.shields.io/github/v/release/leefufufufufu-rgb/homebrew-tap?style=flat-square&label=version)](https://github.com/leefufufufufu-rgb/homebrew-tap/releases)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey?style=flat-square)]()
-[![Claude Code](https://img.shields.io/badge/powered%20by-Claude%20Code-blueviolet?style=flat-square)]()
+[[![Website](https://img.shields.io/badge/website-wengui.xyz/cx-blue?style=flat-square)](https://wengui.xyz/cx)
+![Claude Code](https://img.shields.io/badge/powered%20by-Claude%20Code-blueviolet?style=flat-square)]()
 
 </div>
 
